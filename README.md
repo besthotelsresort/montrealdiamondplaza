@@ -1,0 +1,2 @@
+# montrealdiamondplaza
+Static site: montrealdiamondplaza
